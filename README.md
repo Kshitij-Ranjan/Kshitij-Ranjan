@@ -1,4 +1,4 @@
-## Greetings everyone, I'm KSHITIJ ✨
+## Welcome to my world of code — I'm Kshitij. ✨
 
 🧠 Computer Science student at KIIT <br/>
 🧑‍💻 On a journey to be Software Developer <br/>
