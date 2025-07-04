@@ -1,7 +1,7 @@
 ## Welcome to my world of code — I'm Kshitij. ✨
 
 # 💫 About Me:
-🧠 Computer Science student at KIIT <br/><br>🧑‍💻 On a journey to be Software Developer <br/><br>📚 Learning to CODE to make multi-platform applications <br/>
+🧠 Computer Science student at KIIT <br/>🧑‍💻 On a journey to be Software Developer <br/>📚 Learning to CODE to make multi-platform applications <br/>
 
 
 # 💻 Tech Stack:
