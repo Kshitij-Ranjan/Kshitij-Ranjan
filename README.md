@@ -1,15 +1,79 @@
-## Welcome to my world of code — I'm Kshitij. ✨
+# Welcome to my world of code — I'm Kshitij - aka [Akio] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-# 💫 About Me:
-🧠 Computer Science student at KIIT <br/>🧑‍💻 On a journey to be Software Developer <br/>📚 Learning to CODE to make multi-platform applications <br/>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+## I'm a Computer Science and Engineering Student  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kshitij-Ranjan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kshitij-Ranjan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Ranjan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 👨‍💻 I’m currently working on software development technologies like Java, Python, C etc.
+- 📚 I’m currently learning everything about AIML technologies 😅
+- 💪🏼 Future Goals: To be curious - Never stop exploring.
+- ⚡ Fun fact: I love to play badminton 🏸.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kshitij-Ranjan&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31x2ek6stqorydokkxokkokzag2u)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+### Contact me 📝
+
+<br/>
+
+[<img title="LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](your_linkedin_url)
+&nbsp;&nbsp;
+[<img title="Instagram" width="40px" src="https://media.tenor.com/EJBhl-12fiwAAAAi/instagram.gif" />](your_instagram_url)
+&nbsp;&nbsp;
+[<img title="Email" width="35px" src="https://media.tenor.com/8-9tYFPxEMwAAAAi/little-pills.gif" />](mailto:kshitijranjanstu@gmail.com)
+&nbsp;&nbsp;
+[<img title="Discord: akio_ksh" width="35px" src="https://media.tenor.com/NcNdYO-RP5kAAAAi/discord.gif" />](https://discord.com/users/akio_ksh)
+
+
+<br/>
+
+---
+
+### Languages and Tools 🛠 
+
+<br/>
+
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+<br/>
+
+---
+
+<h2 align="center"> Github Statistics 📈 </h2>
+
+<div align="center"> 
+  <a href="https://github-readme-stats.vercel.app/api?username=Kshitij-Ranjan&show_icons=true&theme=react">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kshitij-Ranjan&theme=react&hide_border=false&include_all_commits=false&count_private=false&line_height=40" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Ranjan&layout=compact&theme=react">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Ranjan&theme=react&hide_border=false&layout=compact"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#themes">🌓 Toggle themes here</a>
+</p>
+
+---
+
+### ⭐️ From [AKIO](https://github.com/Kshitij-Ranjan) ###
+
+[linkedin]: https://www.linkedin.com/in/kshitij-ranjan-390270343/
+[instagram]: https://instagram.com/thy_kshitij
