@@ -20,7 +20,7 @@
 
 [<img title="LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](your_linkedin_url)
 &nbsp;&nbsp;
-[<img title="Instagram" width="40px" src="https://tenor.com/bPayy.gif" />](your_instagram_url)
+[<img title="Instagram" width="40px" src="https://media.tenor.com/EJBhl-12fiwAAAAi/instagram.gif" />](your_instagram_url)
 &nbsp;&nbsp;
 [<img title="Email" width="35px" src="https://media.tenor.com/8-9tYFPxEMwAAAAi/little-pills.gif" />](mailto:kshitijranjanstu@gmail.com)
 &nbsp;&nbsp;
